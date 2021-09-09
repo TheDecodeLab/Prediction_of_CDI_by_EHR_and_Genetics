@@ -1,5 +1,7 @@
 # Prediction-of-CDI
 
+##### The following manuscript has been submitted for a peer-review.
+
 ## Prediction of Clostridioides difficile infection using a genetic variant from IL8 and clinical risk factors from EHR
 #### Jiang Li1, Vaibhav Sharma2, Durgesh Chaudhary3, Vishakha Sharma4, Venkatesh Avula1, Harshit S. Khara5  , Donna M. Wolk6, Ramin Zand4, Vida Abedi1,7
 ##### Geisinger Healthcare System
