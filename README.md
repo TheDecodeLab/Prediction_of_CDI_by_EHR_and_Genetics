@@ -1,7 +1,7 @@
 # Prediction-of-CDI
 
 ## Prediction of Clostridioides difficile infection using a genetic variant from IL8 and clinical risk factors from EHR
-#### Jiang Li1, Vaibhav Sharma2, Durgesh Chaudhary3, Vishakha Sharma4, Venkatesh Avula1, Harshit S. Khara5  , Donna M. Wolk6, Ramin Zand4, Vida Abedi1,7*
+#### Jiang Li1, Vaibhav Sharma2, Durgesh Chaudhary3, Vishakha Sharma4, Venkatesh Avula1, Harshit S. Khara5  , Donna M. Wolk6, Ramin Zand4, Vida Abedi1,7
 ##### Geisinger Healthcare System
 
 ## Introduction: Clostridioides difficile(C. difficile), is a major cause of hospital-associated and community-acquired diarrhea. Our goal was to develop a prediction model of Clostridioides difficile infection (CDI) by integration of common clinical risk factors extracted from electronic health record (EHR) and genetic risk factor, in general as well as age and sex matched subpopulations. 
